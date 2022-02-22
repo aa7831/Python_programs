@@ -1,8 +1,8 @@
-# Introduction to Computer Science (Python)
+# Python Programs
 
 <ul>
-  <li>This repository will include the work I completed in my Intro to CS Course.</li>
-  <li>I'll be including in class exercises and assignments for future reference. </li>
+  <li>This repository will include the programs I write in Python.</li>
+  <li>I'll be including work from the courses I have taken as well as programs I made in my free time for personal use.</li>
 </ul>
 
 
